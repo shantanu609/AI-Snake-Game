@@ -2,7 +2,7 @@
 Q Learning Algorithm 
 <p>
 <p> I'm Shantanu. I am a Graduate Student at Fresno State.</p>
-<p> Worked as a Software Engineer for 3+ years and currently a Full time Graduate Student mastering and griding Full Stack Projects. I am from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Pune, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/940/940207.svg" width="13"/> <b>Fresno, California</b>. </p>
+
 <!--
 **shantanu609/shantanu609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
@@ -13,7 +13,6 @@ Q Learning Algorithm
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt = "Javascript" src = "https://img.shields.io/badge/Javascript-ES6-yellow"/>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt= "css3" src = "https://img.shields.io/badge/-CSS3-0779e4?style=flat-square&logo=css3&logoColor=white"/>

@@ -1,8 +1,6 @@
 # AI-Snake-Game
 Q Learning Algorithm 
 <p>
-Reference :- https://tenor.com/view/snake-game-pixel-8bit-gif-3426104 </p>
-<a href="https://tenor.com/view/snake-game-pixel-8bit-gif-3426104">Snake Perfection GIF</a> from <a href="https://tenor.com/search/snake-gifs">Snake GIFs</a><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p> I'm Shantanu. I am a Graduate Student at Fresno State.</p>
 <p> Worked as a Software Engineer for 3+ years and currently a Full time Graduate Student mastering and griding Full Stack Projects. I am from <img src="https://image.flaticon.com/icons/png/512/555/555462.png" width="13"/> <b>Pune, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/940/940207.svg" width="13"/> <b>Fresno, California</b>. </p>
 <!--
